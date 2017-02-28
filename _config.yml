@@ -5,7 +5,7 @@ locale: en_US
 description: 2019 IEEE Pulsed Power and Plasma Science Conference
 logo: site-logo.png
 search: true
-url: "http://ppps2019.org"
+url: "https://ppps2019.github.io"
 
 # Jekyll configuration
 
