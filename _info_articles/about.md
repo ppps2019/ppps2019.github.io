@@ -9,11 +9,7 @@ image:
   creditlink: http://doubletree3.hilton.com/en/hotels/florida/doubletree-by-hilton-hotel-at-the-entrance-to-universal-orlando-MCOUNDT/index.html
 ---
 
-The **2019 IEEE Pulsed Power and Plasma Science Conference** is the premier international conference dedicated to pulsed power and plasma science, combining the IEEE International Conference on Plasma Science and the IEEE International Pulsed Power Conference.
-
-The conference will be held from 23 June to 28 June, 2019, at the [DoubleTree by Hilton Hotel](http://doubletree3.hilton.com/en/hotels/florida/doubletree-by-hilton-hotel-at-the-entrance-to-universal-orlando-MCOUNDT/index.html) in Orlando, FL, USA.
-
-Sponsored by the [IEEE Nuclear and Plasma Sciences Society](http://ieee-npss.org/).
+{% include conf-about-blurb.html %}
 
 ## Location
 
