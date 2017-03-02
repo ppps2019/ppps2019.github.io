@@ -22,13 +22,3 @@ At the Entrance to Universal Orlando \\
 5780 Major Blvd. \\
 Orlando, FL, USA
 
-## Important Dates:
-
-* Early Registration Deadline: 
-* Conference: 22 June – 28 June 2019
-
-## Organizers
-
-## Technical Committee
-
-## Past and Future Conferences

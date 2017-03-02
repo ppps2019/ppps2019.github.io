@@ -34,10 +34,22 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 
+collections:
+  info_articles:
+    output: true
+    permalink: /:path/:title:output_ext
+
+defaults:
+  - scope:
+      path: ""
+      type: info_articles
+    values:
+      layout: page
+
 # Site owner
 owner:
   name: Steve Richardson
-  avatar: bio-photo.jpg
+  avatar: steve-richardson-photo.jpg
   email: steve.richardson@ppps0219.org
   disqus-shortname:
   twitter: ppps2019
