@@ -18,3 +18,15 @@ At the Entrance to Universal Orlando \\
 5780 Major Blvd. \\
 Orlando, FL, USA
 
+## Conference Organizing Committee
+
+<div class="gallery">
+{% for person_hash in site.data.chairs %}
+{% assign person = person_hash[1] %}
+<div markdown="1" class="item">
+{% if person.avatar %} ![{{ person.name }} bio photo]({{ site.url }}/images/{{ person.avatar }}){: class="bio-photo"}{% endif %}
+**{{ person.position }}**  \\
+{% if person.email %}[_{{ person.name }}_](mailto:{{ person.email }}){% else %}_{{ person.name }}_{% endif %}
+</div>
+{% endfor %}
+</div>

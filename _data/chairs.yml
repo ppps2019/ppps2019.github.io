@@ -1,0 +1,29 @@
+# Conference chairs
+
+ray_allen:
+    name: Raymond Allen
+    email: chair@ppps2019.org
+    position: Conference Chair
+    avatar: ray-allen-photo.jpg
+    
+chunqi_jiang:
+    name: Chunqi Jiang
+    avatar: chunqi-jiang-photo.png
+    position: ICOPS Technical Chair
+    
+josh_leckbee:
+    name: Joshua Leckbee
+    avatar: josh-leckbee-photo.jpg
+    position: PPC Technical Chair
+   
+stuart_jackson:
+    name: Stuart Jackson
+    email: treasurer@ppps2019.org
+    position: Treasurer
+    avatar: stuart-jackson-photo.jpg
+    
+steve_richardson:
+    name: Steve Richardson
+    email: communications@ppps2019.org
+    avatar: steve-richardson-photo.jpg
+    position: Communications Chair

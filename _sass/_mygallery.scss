@@ -1,0 +1,28 @@
+/* ==========================================================================
+   trying to make a "gallery" where three images can appear on a row
+   ========================================================================== */
+.gallery .item {
+
+    @include media($large) {
+        @include span-columns(4);
+        @include omega(3n);
+    }
+}
+
+.gallery .item .bio-photo {
+		display: block;
+		width: 150px;
+		height: 150px;
+		margin-bottom: 10px;
+		@include rounded(150px);
+		@include clearfix;
+
+	@include media($large) {
+		display: block;
+		width: 150px;
+		height: 150px;
+		margin-bottom: 10px;
+		@include rounded(150px);
+		@include clearfix;
+	}
+}
