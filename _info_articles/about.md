@@ -30,3 +30,18 @@ Orlando, FL, USA
 </div>
 {% endfor %}
 </div>
+
+<div class="gallery-ender"></div>
+
+
+## PPPS Conference History
+
+Since 19xx, the IEEE Pulsed Power Conference and the IEEE International Conference on Plasma Science combine once every four years to become the Pulse Power and Plasma Science Conference. This combined conference...
+
+#### ICOPS
+{% for conf in site.data.icops %}{{conf.Year}} &mdash; {{conf.Location}}, {{conf.City}} &mdash; <em>{{conf.Chair}}</em> <br> {% endfor %}
+
+#### Pulsed Power Conference
+{% for conf in site.data.pulsedpower %}{{conf.Year}} &mdash; {{conf.City}} &mdash; <em>{{conf.Chair}}</em> <br> {% endfor %}
+
+
