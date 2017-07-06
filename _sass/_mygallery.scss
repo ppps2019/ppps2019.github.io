@@ -1,12 +1,20 @@
 /* ==========================================================================
    trying to make a "gallery" where three images can appear on a row
    ========================================================================== */
-.gallery .item {
+@mixin rounded {
+  -moz-border-radius: 150px;
+  -webkit-border-radius: 150px;
+  border-radius: 150px;
+} 
 
-    @include media($large) {
-        @include span-columns(4);
-        @include omega(3n);
+.gallery div.item {
+    display: block;
+    margin: 2em;
+    @include breakpoint($medium) {
+        display: inline;
+        float: left;
     }
+
 }
 
 .gallery .item .bio-photo {
@@ -14,15 +22,15 @@
 		width: 150px;
 		height: 150px;
 		margin-bottom: 10px;
-		@include rounded(150px);
+		@include rounded;
 		@include clearfix;
 
-	@include media($large) {
+	@include breakpoint($medium) {
 		display: block;
 		width: 150px;
 		height: 150px;
 		margin-bottom: 10px;
-		@include rounded(150px);
+		@include rounded;
 		@include clearfix;
 	}
 }
