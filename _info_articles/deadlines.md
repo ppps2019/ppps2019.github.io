@@ -8,6 +8,8 @@ modified: 2017-06-30
 
 ## Important Deadlines
 
-- Early registration: **Friday, May 31, 2019**
-- Minicourse registration: **Friday, May 3, 2019**
+- Arthur H. Guenther Pulsed Power Student Award Nominations: **December 1, 2017**
+- Abstract Submission: **February 22, 2019**
+- Early registration: **May 31, 2019**
+- Minicourse registration: **May 3, 2019**
 

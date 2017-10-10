@@ -1,9 +1,15 @@
 <footer id="footer" class="site-footer">
+  <img src="/images/ieee-logo.gif" alt="IEEE Logo" style="width:10em;margin-right:1em;">
+  <img src="/images/npss-logo.png" alt="NPSS Logo" style="width:10em;">
   <div class="copyright">
     {% if site.copyright %}
       {{ site.copyright | markdownify }}
     {% else %}
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+      <p>&copy;  {{ site.title }}</p>
     {% endif %}
+    <p>
+    IEEE is committed to the principle that all persons shall have equal access to programs, facilities, services, and employment without regard to personal characteristics not related to ability, performance, or qualifications as determined by IEEE policy and/or applicable laws. <a href="{{ '/policies/policies.html' }}" itemprop="url">Policies</span>
+      </a>
+    </p>
   </div>
 </footer>
