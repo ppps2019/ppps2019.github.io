@@ -9,8 +9,7 @@ modified: 2017-02-28
 
 ### Location
 
-[DoubleTree by Hilton Hotel](http://doubletree3.hilton.com/en/hotels/florida/doubletree-by-hilton-hotel-at-the-entrance-to-universal-orlando-MCOUNDT/index.html) \\
-At the Entrance to Universal Orlando \\
+[DoubleTree at the Entrance to Universal Orlando]({{ site.baseurl }}{% link _info_articles/accommodations.md %})\\
 5780 Major Blvd. \\
 Orlando, FL, USA
 
@@ -35,12 +34,5 @@ Orlando, FL, USA
 
 ## PPPS Conference History
 
-Since 19xx, the IEEE Pulsed Power Conference and the IEEE International Conference on Plasma Science combine once every four years to become the Pulse Power and Plasma Science Conference. This combined conference...
-
-#### ICOPS
-{% for conf in site.data.icops %}{{conf.Year}} &mdash; {{conf.Location}}, {{conf.City}} &mdash; <em>{{conf.Chair}}</em> <br> {% endfor %}
-
-#### Pulsed Power Conference
-{% for conf in site.data.pulsedpower %}{{conf.Year}} &mdash; {{conf.City}} &mdash; <em>{{conf.Chair}}</em> <br> {% endfor %}
-
+Starting in 2001, the IEEE Pulsed Power Conference (PPC) and the IEEE International Conference on Plasma Science (ICOPS) have combined once every six years to become the Pulse Power and Plasma Science Conference. PPPS 2019 brings together the fourth combined conference of the PPC (22<sup>nd</sup>) and ICOPS (46<sup>th</sup>).  Keeping the structure of PPPS 2013, there will be no separation between PPC and ICOPS registrants with all functions and publications open to all attendees.
 
