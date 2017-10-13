@@ -3,7 +3,7 @@ layout: post
 title: "Arthur H. Guenther Pulsed Power Student Award"
 modified:
 categories: news
-excerpt: Nominations are now open
+excerpt: Nominations are now open, deadline Dec. 1, 2017.
 tags: []
 date: 2017-10-10
 author: steve_richardson
