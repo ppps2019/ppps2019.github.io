@@ -13,6 +13,8 @@ modified: 2017-02-28
 5780 Major Blvd. \\
 Orlando, FL, USA
 
+### Mini-course: June 22-23, 2019
+
 <div class="gallery-ender"></div>
 
 ## Latest News and Information
