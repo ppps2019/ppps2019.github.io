@@ -4,7 +4,7 @@ title: Welcome to PPPS 2019
 excerpt: "PPPS 2019 is the premier international conference dedicated to pulsed power and plasma science."
 modified: 2017-02-28
 ---
-
+ 
 {% include conf-about-blurb.html %}
 
 ### Location
