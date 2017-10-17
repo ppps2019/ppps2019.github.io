@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to PPPS 2019 Orlando 23-28 June
+title: Welcome to PPPS 2019
 excerpt: "PPPS 2019 is the premier international conference dedicated to pulsed power and plasma science."
 modified: 2017-02-28
 ---
