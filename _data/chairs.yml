@@ -3,7 +3,7 @@
 ray_allen:
     name: Raymond Allen
     email: chair@ppps2019.org
-    position: Conference Chair
+    position: General Chair
     avatar: ray-allen-photo.jpg
     
 chunqi_jiang:
@@ -29,13 +29,7 @@ stuart_jackson:
     email: treasurer@ppps2019.org
     position: Treasurer
     avatar: stuart-jackson-photo.jpg
-    
-david_wetz:
-    name: David Wetz
-    email: secretary@ppps2019.org
-    position: Secretary
-    avatar: david-wetz-photo.jpg
-    
+
 steve_richardson:
     name: Steve Richardson
     email: communications@ppps2019.org
