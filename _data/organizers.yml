@@ -1,8 +1,33 @@
 # additional organizers
 
+
+juis_redondo:
+    name: Luís Redondo
+    email: lmredondo@deea.isel.ipl.pt
+    position: Publications Chair
+    avatar: redondo.jpg
+
+bryan_oliver:
+    name: Bryan Oliver
+    email: b.v.oliver@ieee.org
+    position: Awards Chair
+    avatar: b-oliver.jpg
+
+sterling_beeson:
+    name: Sterling Beeson
+    email: sterling.beeson@us.af.mil
+    position: Mobile App
+    avatar: sterling_beeson.jpg
+
+lisa_boyd:
+    name: Lisa Boyd
+    email: l.boyd@ieee.org
+    position: Conference Management, IEEE MCE
+    avatar: lisa-boyd.jpg
+
+
 david_wetz:
     name: David Wetz
     email: secretary@ppps2019.org
     position: Secretary
     avatar: david-wetz-photo.jpg
-    

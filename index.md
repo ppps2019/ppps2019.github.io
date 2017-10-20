@@ -17,6 +17,11 @@ Orlando, FL, USA
 
 <div class="gallery-ender"></div>
 
+## PPPS Conference History
+
+Starting in 2001, the IEEE Pulsed Power Conference (PPC) and the IEEE International Conference on Plasma Science (ICOPS) have combined once every six years to become the Pulse Power and Plasma Science Conference. PPPS 2019 brings together the fourth combined conference of the PPC (22<sup>nd</sup>) and ICOPS (46<sup>th</sup>).  Keeping the structure of PPPS 2013, there will be no separation between PPC and ICOPS registrants with all functions and publications open to all attendees.
+
+
 ## Latest News and Information
 
 {% for post in site.posts limit:1 %}
@@ -54,23 +59,25 @@ Orlando, FL, USA
 {% endfor %}
 
 
-## Conference Organizing Committee
+
+## Key Contacts
 
 <div class="gallery">
+{% assign counter = 0 %}
 {% for person_hash in site.data.chairs %}
+{% assign counter = counter | plus: 1 %}
 {% assign person = person_hash[1] %}
 <div markdown="1" class="item">
 {% if person.avatar %} ![{{ person.name }} bio photo]({{ site.url }}/images/{{ person.avatar }}){: class="bio-photo"}{% endif %}
 **{{ person.position }}**  \\
 {% if person.email %}[_{{ person.name }}_](mailto:{{ person.email }}){% else %}_{{ person.name }}_{% endif %}
 </div>
+{% if counter == 3 %}
+<div class="gallery-ender"></div>
+{% assign counter = 0 %}
+{% endif %}
 {% endfor %}
-</div>
-
 <div class="gallery-ender"></div>
 
 
-## PPPS Conference History
-
-Starting in 2001, the IEEE Pulsed Power Conference (PPC) and the IEEE International Conference on Plasma Science (ICOPS) have combined once every six years to become the Pulse Power and Plasma Science Conference. PPPS 2019 brings together the fourth combined conference of the PPC (22<sup>nd</sup>) and ICOPS (46<sup>th</sup>).  Keeping the structure of PPPS 2013, there will be no separation between PPC and ICOPS registrants with all functions and publications open to all attendees.
 

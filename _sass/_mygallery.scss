@@ -7,9 +7,11 @@
   border-radius: 150px;
 } 
 
+
 .gallery div.item {
     display: block;
     margin: 2em;
+    width: 170px;
     @include breakpoint($medium) {
         display: inline;
         float: left;
