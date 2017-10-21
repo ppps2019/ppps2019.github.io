@@ -60,7 +60,7 @@ Starting in 2001, the IEEE Pulsed Power Conference (PPC) and the IEEE Internatio
 
 
 
-## Key Contacts
+## Main Contacts
 
 <div class="gallery">
 {% assign counter = 0 %}
