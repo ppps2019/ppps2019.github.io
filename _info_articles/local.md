@@ -12,7 +12,7 @@ modified: 2018-10-05
 
 Orlando has been rated the #1 best location for meetings in the USA.  Orlando is home to several of the best attractions in the world, including Walt Disney World, Universal Studios and Sea World.  In addition to other premier local attractions such as shopping and golf, there are also several popular attractions in driving distance from Orlando, including Kennedy Space Center, LEGOLAND and Daytona Beach.
 
-[VisitOrlando](http://ppps2019.orlandomeetinginfo.com) has additional information about all that Orlando has to offer.
+[Visit Orlando](http://ppps2019.orlandomeetinginfo.com) has additional information about all that Orlando has to offer.
 
 
 
