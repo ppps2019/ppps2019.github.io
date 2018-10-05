@@ -1,13 +1,14 @@
 ---
 layout: page
 title: News
+alt_title: Recent PPPS 2019 News
 excerpt: "Recent PPPS 2019 news sorted by date."
 search_omit: true
 ---
 
 <div>
 <header class="section-title">
-        <h2>{{ site.data.theme.t.posts | default: 'News Items' }}{% if paginator.page > 1 %}{{ site.data.theme.t.page | default: 'Page' | prepend: ' - ' | append: ' ' }}{{ paginator.page }} {{ site.data.theme.t.of | default: 'of' }} {{ paginator.total_pages }}{% endif %}</h2>
+        <h2>{% if paginator.page > 1 %}{{ site.data.theme.t.page | default: 'Page' | prepend: ' - ' | append: ' ' }}{{ paginator.page }} {{ site.data.theme.t.of | default: 'of' }} {{ paginator.total_pages }}{% endif %}</h2>
 </header>
 
       <div class="entries">
