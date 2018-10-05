@@ -19,6 +19,15 @@
   z-index: 100;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
+  
+   @include breakpoint($medium) {
+     transform-origin: right;
+     transform: translateX($sidebar-width);
+     
+     // this is still not working. I need to have the width adjust...
+     //width: calc(100vw - 1.5*$sidebar-width);
+     width: calc(100vw - 240px);
+   }
 }
 
 .intro,

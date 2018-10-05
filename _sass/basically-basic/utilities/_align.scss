@@ -56,7 +56,16 @@ a img.align-left {
   transform: translateX(1 * $sidebar-width);
   transform-origin: right;
 
-  @include breakpoint($large) {
-    transform: translateX(1.5 * $sidebar-width);
+//   @include breakpoint($large) {
+//     transform: translateX(1.5 * $sidebar-width);
+//   }
+
+  @include breakpoint($medium) {
+     transform-origin: right;
+     transform: translateX($sidebar-width);
+     
+     // this is still not working. I need to have the width adjust...
+     //width: calc(100vw - 1.5*$sidebar-width);
+     width: calc(100vw - 240px);
   }
 }

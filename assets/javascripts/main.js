@@ -51,7 +51,7 @@ myToggle.addEventListener('click', function() {
   toggleClassMenu();
   animateMenuItems();
 }, false);
-myMenu.addEventListener('click', function() {
-  toggleClassMenu();
-  animateMenuItems();
-}, false);
+// myMenu.addEventListener('click', function() {
+//   toggleClassMenu();
+//   animateMenuItems();
+// }, false);

@@ -11,9 +11,10 @@
   height: 100%;
   z-index: 50;
 
-  @include breakpoint($large) {
-    max-width: (1.5 * $sidebar-width);
-  }
+   @include breakpoint($medium) {
+//     max-width: (1.5 * $sidebar-width);
+     max-width: ($sidebar-width);
+   }
 
   li {
     //transform: translateX(-1rem);
@@ -121,6 +122,10 @@
     display: flex;
     -ms-flex-align: center;
     align-items: center;
+  }
+  
+   @include breakpoint($medium) {
+    display: none !important;
   }
 }
 

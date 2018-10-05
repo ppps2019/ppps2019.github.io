@@ -10,9 +10,10 @@
 
 .gallery div.item {
     display: block;
-    margin: 2em;
-    width: 170px;
+    margin: 1em;
+    width: 140px;
     @include breakpoint($medium) {
+        width: 140px;
         display: inline;
         float: left;
     }
@@ -21,16 +22,16 @@
 
 .gallery .item .bio-photo {
 		display: block;
-		width: 150px;
-		height: 150px;
+		width: 140px;
+		height: 140px;
 		margin-bottom: 10px;
 		@include rounded;
 		@include clearfix;
 
 	@include breakpoint($medium) {
 		display: block;
-		width: 150px;
-		height: 150px;
+		width: 140px;
+		height: 140px;
 		margin-bottom: 10px;
 		@include rounded;
 		@include clearfix;
