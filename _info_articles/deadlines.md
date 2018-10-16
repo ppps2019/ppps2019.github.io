@@ -9,4 +9,4 @@ modified: 2017-06-30
 - Abstract Submission: **February 22, 2019**
 - Early registration: **May 31, 2019**
 - Minicourse registration: **May 3, 2019**
-
+- Child Care Assistance Grant: **March 9, 2019**

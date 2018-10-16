@@ -24,7 +24,7 @@ Starting in 2001, the IEEE Pulsed Power Conference (PPC) and the IEEE Internatio
 
 ## Latest News and Information
 
-{% for post in site.posts limit:1 %}
+{% for post in site.posts limit:2 %}
 {% if post.id %}
   {% assign title = post.title | markdownify | strip_html %}
 {% else %}
