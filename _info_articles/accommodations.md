@@ -17,7 +17,12 @@ The conference venue for the 2019 IEEE Pulsed Power & Plasma Science Conference 
 TEL: +1-407-351-1000\\
 FAX: +1-407-363-0106
 
-The Conference Registration does __not__ include hotel accommodations. Check back here soon for instructions for getting the group rate at this hotel.
+The Conference Registration does __not__ include hotel accommodations. The group rate at the conference hotel starts at $125 (USD) per night, and the government rate starts at $122 (USD) per night. Book by _May 21, 2019_ in order to obtain the conference rate.
+
+[Click here to reserve your room at the __conference__ rate.](https://doubletree.hilton.com/en/dt/groups/personalized/M/MCOUNDT-IEE-20190620/index.jhtml)
+
+[Click here to reserve your room at the __government__ rate.](https://doubletree.hilton.com/en/dt/groups/personalized/M/MCOUNDT-IE2-20190620/index.jhtml)
+
 
 PPPS 2019 will be held in the meeting space of DoubleTree at the Entrance to Universal, with Universal Studios located literally across the street and within walking distance.  DoubleTree at the Entrance to Universal is also the recommended hotel for lodging as we have negotiated a very low group rate and the meeting space is directly connected to the hotel.  The DoubleTree has just finshed a complete renovation of the meeting space and hotel rooms, which will provide a fresh, contemporary, venue for PPPS 2019.
 
