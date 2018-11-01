@@ -34,7 +34,7 @@ For additional information see [NPSS Conference Awards](http://ieee-npss.org/awa
 
 ## NPSS Grants
 
-* _The Paul Phelps Continuing Education Grant_ To promote continuing education and encourage membership in NPSS, by providing tuition and travel cost assistance for mini-course participants. Additional information and application forms are available at the [NPSS Conference Awards website](http://ieee-npss.org/awards/conference-awards/).
+* _The Paul Phelps Continuing Education Grant_ To promote continuing education and encourage membership in NPSS, by providing tuition and travel cost assistance for mini-course participants. Additional information and application forms are available at the [NPSS Conference Awards website](http://ieee-npss.org/awards/conference-awards/). To apply, fill out the application form, and send it to [minicourse@ppps2019.org](mailto:minicourse@ppps2019.org).
 
 * _NPSS Child Care Assistance Grant_ The Nuclear & Plasma Sciences Society is offering child care reimbursement of up to $400 per family to assist conference attendees who incur additional childcare expenses by attending an NPSS conference. Limited funds are available and preference will be given to applicants in the early stages of their careers who are IEEE NPSS members. To apply for Child Care Assistance, fill out [this form](/assets/PPPS2019_CCA_Application.docx) and return it no later than **March 9, 2019** by email to: [treasurer@ppps2019.org](mailto:treasurer@ppps2019.org)
 
