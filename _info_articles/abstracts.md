@@ -8,12 +8,14 @@ modified: 2017-06-30
 
 Like a number of recent IEEE conferences, abstract submission for PPPS 2019 is managed through the INDICO conference portal, run by the European Organization for Nuclear Research (CERN).  We have prepared this guide to assist you in your efforts to submit an abstract.
 
+## [Click here to submit your abstract](https://indico.cern.ch/event/727938/)
+
 # Basic Instructions
 
 The following two-step sequence is required to successfully submit an abstract.
 
 1. **Register:** A CERN account must be established so that INDICO recognizes you when you attempt to submit an abstract. Please visit the following website to create an account: [https://account.cern.ch/account/Externals/](https://account.cern.ch/account/Externals/)  If you have created a CERN account for past conference submissions, you may choose to use your existing account.
-2. **Submit:**  Once confirmation that your account has been sent to you via email, you may submit an abstract using the INDICO portal **Abstract Submission Link Coming Soon!**
+2. **Submit:**  Once confirmation that your account has been sent to you via email, you may submit an abstract using the [INDICO portal for IEEE PPPS2019](https://indico.cern.ch/event/727938/).
 
 # Detailed Instructions
 
@@ -23,7 +25,7 @@ For non-CERN members, you must register a ‘light-weight’ account, which prov
 
 **Abstract Submission**
 
-Upon creation of the CERN account, users may submit an abstract to the conference for technical consideration. Following the link provided above in _Submit_, you will be directed to the INDICO portal for IEEE PPPS2019 (**Link Coming Soon!**). On the panel near the bottom, select the link to “Submit new abstract”.
+Upon creation of the CERN account, users may submit an abstract to the conference for technical consideration. Following the link provided above in _Submit_, you will be directed to the [INDICO portal for IEEE PPPS2019](https://indico.cern.ch/event/727938/). On the panel near the bottom, select the link to “Submit new abstract”.
 
 Next, please read the **submission instructions** before submitting an abstract by clicking on the text “Submission instructions”. 
 - **Title:** Please fill in the title of your presentation.
@@ -36,6 +38,7 @@ Next, please read the **submission instructions** before submitting an abstract 
     - _Attachments:_ Only to be used for recommendation/cover letters for student paper competition. (DO NOT upload your abstract as an attachment file)
     - _Optional: Student Paper competition:_ Default is “NO”. Only “Yes” if you are eligible and interested in participating the competition.
     - _Optional: Interested in Job Opportunity:_ Default is “NO”. Only “Yes” if you are interested in new employment opportunities.
+
 Finally, click on “Submit”.
 
 **Problems:**
