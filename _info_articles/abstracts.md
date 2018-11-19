@@ -43,4 +43,4 @@ Finally, click on “Submit”.
 
 **Problems:**
 
-If you encounter problems with this procedure, please contact the conference organizers at [jjleckb@sandia.gov](jjleckb@sandia.gov) or [cjiang@odu.edu](cjiang@odu.edu).
+If you encounter problems with this procedure, please contact the conference organizers at [jjleckb@sandia.gov](mailto:jjleckb@sandia.gov) or [cjiang@odu.edu](mailto:cjiang@odu.edu).
