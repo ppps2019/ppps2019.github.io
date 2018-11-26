@@ -14,6 +14,11 @@ Orlando has been rated the #1 best location for meetings in the USA.  Orlando is
 
 [Visit Orlando](http://ppps2019.orlandomeetinginfo.com) has additional information about all that Orlando has to offer.
 
+## Discount Disney Tickets
+
 Advance-Purchase Savings on Specially Priced Disney Theme Park Tickets are [available for purchase](https://www.mydisneygroup.com/ieeephoto) until June 21, 2019 at 5 p.m. EST. 
 
+## Discount Universal Studios Tickets
 
+Exclusive theme park tickets are available for
+[Universal Orlando® Resort](https://secure.universalstudios.com/webstore/shop/ViewItems.aspx?CG=UOConvention&C=UOConvTPT11). Special pricing for the "After 2pm Pass" is available exclusively for PPPS 2019 attendees. 
