@@ -28,3 +28,39 @@ When you are ready to reserve a booth and **plan to make the booth registration 
 On the first page of this registration system, please enter the name and e-mail fields and then select “Exhibitor” for membership status. Continue through the next few pages with personal/contact information, IEEE policy acceptance, and registration questions. On the next page, you will have an option to purchase a conference banquet ticket for $25/person. Please be aware that the conference banquet will be on Thursday, June 27, 2019 which is after the exhibitor exhibition will close (on Wednesday, June 26). On the following page, please add the information for the second individual who will utilize the second complementary conference registration. Payment is then done on the next page to complete the registration.
 
 If you plan to reserve a booth and **intend to make the booth registration deposit payment by check,** please fill out the form on the last page of the [exhibitor prospectus](/assets/exhibitor_prospectus.pdf) and forward that with the check to the address at the bottom of the form. Once again, please be aware that booth selection is done on a first come, first served basis determined by receipt of the registration information and the booth deposit payment.
+
+# PPPS 2019 Exhibitor Booth Assignments
+
+| Booth #       | Exhibitor     |
+| -------------:| ------------- |
+| 1 | |
+| 2 | |
+| 3 | |
+| 4      | Stangenes Industries, Inc. |
+| 5     | HVR Advanced Power Components       |
+| 6 | |
+| 7 | |
+| 8 | |
+| 9 | |
+| 10 | |
+| 11 | |
+| 12 | |
+| 13 | |
+| 14 | |
+| 15 | |
+| 16 | |
+| 17 | |
+| 18 | |
+| 19 | |
+| 20 | |
+| 21 | TDK-Lambda Americas |
+| 22 | |
+| 23 | |
+| 24 | VR Electronics Co. Ltd. |
+| 25 | |
+| 26 | |
+| 27 | |
+| 28 | |
+| 29 | |
+| 30 | |
+
