@@ -43,16 +43,16 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | 8 | |
 | 9 | |
 | 10 | |
-| 11 | |
+| 11 | GMW Associates |
 | 12 | |
 | 13 | |
 | 14 | |
-| 15 | |
+| 15 | ITHPP ALCEN |
 | 16 | |
 | 17 | |
-| 18 | |
+| 18 | Diversified Technologies, Inc. |
 | 19 | |
-| 20 | |
+| 20 | Dielectric Sciences, Inc. |
 | 21 | TDK-Lambda Americas |
 | 22 | |
 | 23 | |
