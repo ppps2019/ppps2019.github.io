@@ -38,3 +38,15 @@ For additional information see [NPSS Conference Awards](http://ieee-npss.org/awa
 
 * _NPSS Child Care Assistance Grant_ The Nuclear & Plasma Sciences Society is offering child care reimbursement of up to $400 per family to assist conference attendees who incur additional childcare expenses by attending an NPSS conference. Limited funds are available and preference will be given to applicants in the early stages of their careers who are IEEE NPSS members. To apply for Child Care Assistance, fill out [this form](/assets/PPPS2019_CCA_Application.docx) and return it no later than **March 9, 2019** by email to: [treasurer@ppps2019.org](mailto:treasurer@ppps2019.org)
 
+## Student Travel Grants
+
+A limited number of travel grants are available to encourage student IEEE members to present papers at PPPS 2019. The paper must be original, it may be may be either oral or poster and the student should be the first author and presenter. For those students selected the grant will provide complimentary conference registration and upto $375 toward accommodation at the conference hotel. Cost sharing of accommodation with other students is encouraged.
+
+Applicants should submit the following information by **Fri. March 8<sup>th</sup>, 2019**.  All applicants will be informed by Fri. April 5th, 2019 of the status of their applications.  Applicants should not register for the conference until after the 5th April 2019 date.
+* A copy of the submitted abstract
+* A letter of recommendation, from the student's advisor, stating the impact of the research to be presented and the contribution the student has made to the presented research
+* IEEE membership number.
+
+Nomination e-mails should be sent to Nigel Seddon at [nigel.seddon@ieee.org](mailto:nigel.seddon@ieee.org).
+
+
