@@ -2,7 +2,7 @@
 layout: page
 title: Exhibitors
 excerpt: 
-modified: 2018-11-16
+modified: 2018-11-29
 ---
 
 
@@ -35,7 +35,7 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | -------------:| ------------- |
 | 1 | |
 | 2 | |
-| 3 | |
+| 3 | Silicon Power Corporation |
 | 4      | Stangenes Industries, Inc. |
 | 5     | HVR Advanced Power Components       |
 | 6 | |
@@ -57,10 +57,10 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | 22 | |
 | 23 | |
 | 24 | VR Electronics Co. Ltd. |
-| 25 | |
+| 25 | Scandinova Systems, Inc. |
 | 26 | |
 | 27 | |
 | 28 | |
 | 29 | |
-| 30 | |
+| 30 | Pearson Electronics, Inc. |
 
