@@ -42,7 +42,7 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | 7 | |
 | 8 | |
 | 9 | |
-| 10 | |
+| 10 | Tech-X Corporation |
 | 11 | GMW Associates |
 | 12 | |
 | 13 | |
@@ -51,7 +51,7 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | 16 | |
 | 17 | |
 | 18 | Diversified Technologies, Inc. |
-| 19 | |
+| 19 | Spellman High Voltage Electronics Corp. |
 | 20 | Dielectric Sciences, Inc. |
 | 21 | TDK-Lambda Americas |
 | 22 | |
@@ -59,7 +59,7 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | 24 | VR Electronics Co. Ltd. |
 | 25 | Scandinova Systems, Inc. |
 | 26 | |
-| 27 | |
+| 27 | NWL, Inc. - Capacitor Division |
 | 28 | |
 | 29 | |
 | 30 | Pearson Electronics, Inc. |
