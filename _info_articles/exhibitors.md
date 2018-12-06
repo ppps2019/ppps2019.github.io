@@ -48,7 +48,7 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | 13 | |
 | 14 | |
 | 15 | ITHPP ALCEN |
-| 16 | |
+| 16 | Dean Technology, Inc. |
 | 17 | |
 | 18 | Diversified Technologies, Inc. |
 | 19 | Spellman High Voltage Electronics Corp. |
