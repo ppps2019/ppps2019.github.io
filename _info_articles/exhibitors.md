@@ -52,13 +52,13 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | 17 | |
 | 18 | Diversified Technologies, Inc. |
 | 19 | Spellman High Voltage Electronics Corp. |
-| 20 | Dielectric Sciences, Inc. |
+| 20 | Dielectric Sciences, Inc./Essex X-Ray |
 | 21 | TDK-Lambda Americas |
 | 22 | |
 | 23 | |
 | 24 | VR Electronics Co. Ltd. |
 | 25 | Scandinova Systems, Inc. |
-| 26 | |
+| 26 | Metglas, Inc. |
 | 27 | NWL, Inc. - Capacitor Division |
 | 28 | |
 | 29 | |
