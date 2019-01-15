@@ -38,7 +38,7 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | 3 | Silicon Power Corporation |
 | 4      | Stangenes Industries, Inc. |
 | 5     | HVR Advanced Power Components       |
-| 6 | |
+| 6 | Northrup Grumman (NGIS) |
 | 7 | |
 | 8 | |
 | 9 | |
@@ -60,7 +60,7 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | 25 | Scandinova Systems, Inc. |
 | 26 | Metglas, Inc. |
 | 27 | NWL, Inc. - Capacitor Division |
-| 28 | |
+| 28 | Jema Energy |
 | 29 | |
 | 30 | Pearson Electronics, Inc. |
 
