@@ -61,6 +61,6 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | 26 | Metglas, Inc. |
 | 27 | NWL, Inc. - Capacitor Division |
 | 28 | Jema Energy |
-| 29 | |
+| 29 | Suematsu Electronics, Ltd. |
 | 30 | Pearson Electronics, Inc. |
 
