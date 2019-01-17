@@ -44,7 +44,7 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | 9 | |
 | 10 | Tech-X Corporation |
 | 11 | GMW Associates |
-| 12 | |
+| 12 | Applied Physical Electronics L.C. |
 | 13 | |
 | 14 | |
 | 15 | ITHPP ALCEN |
