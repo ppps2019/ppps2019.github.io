@@ -39,9 +39,9 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | 4      | Stangenes Industries, Inc. |
 | 5     | HVR Advanced Power Components       |
 | 6 | Northrup Grumman (NGIS) |
-| 7 | |
+| 7 | 5S Components, Inc. |
 | 8 | |
-| 9 | |
+| 9 | Eagle Harbor Technologies, Inc. |
 | 10 | Tech-X Corporation |
 | 11 | GMW Associates |
 | 12 | Applied Physical Electronics L.C. |
