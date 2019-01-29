@@ -33,8 +33,8 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 
 | Booth #       | Exhibitor     |
 | -------------:| ------------- |
-| 1 | |
-| 2 | |
+| 1 | Tera Analysis Ltd. |
+| 2 | Advanced Energy Industries, Inc. |
 | 3 | Silicon Power Corporation |
 | 4      | Stangenes Industries, Inc. |
 | 5     | HVR Advanced Power Components       |
