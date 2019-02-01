@@ -7,6 +7,10 @@ modified: 2017-02-28
  
 {% include conf-about-blurb.html %}
 
+### Registration Now Open
+
+Registration for PPPS 2019 is now open. [Click here to register now.](http://www.cvent.com/d/b4q9tx)
+
 ### Location
 
 [DoubleTree at the Entrance to Universal Orlando]({{ site.baseurl }}{% link _info_articles/accommodations.md %})\\
