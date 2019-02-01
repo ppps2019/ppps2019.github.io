@@ -16,8 +16,8 @@
 
     <!-- site.pages links -->
     {% assign default_paths = site.pages | map: "path" %}
-
-  {% for link in site.info_articles %}
+    {% assign navigation_pages = site.info_articles | sort: 'title' | sort: 'navigation_weight' %}
+    {% for link in navigation_pages %}
         {% if link.url contains 'http' %}
             {% assign domain = '' %}
             {% else %}
@@ -28,7 +28,7 @@
         <span itemprop="name">{{ link.title | escape }}</span>
         </a>
         </li>
-  {% endfor %}
+    {% endfor %}
 
   </ul>
   

@@ -106,6 +106,7 @@ defaults:
       type: info_articles
     values:
       layout: page
+      navigation_weight: 99
 
 # Site owner
 owner:

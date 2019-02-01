@@ -3,6 +3,7 @@ layout: page
 title: Technical Program
 excerpt: "PPPS 2019 Tentative Technical Program"
 modified: 2017-06-30
+navigation_weight: 6
 ---
 
 <div style="float:left;margin-right:10%;">

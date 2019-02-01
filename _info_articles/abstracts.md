@@ -4,6 +4,7 @@ title: Abstract Submission
 alt_title: Abstract Submission to PPPS2019
 excerpt: "PPPS 2019 abstract and paper submission"
 modified: 2017-06-30
+navigation_weight: 0
 ---
 
 Like a number of recent IEEE conferences, abstract submission for PPPS 2019 is managed through the INDICO conference portal, run by the European Organization for Nuclear Research (CERN).  We have prepared this guide to assist you in your efforts to submit an abstract.

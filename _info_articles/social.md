@@ -7,6 +7,7 @@ excerpt:
 tags: []
 date: 2018-10-05
 author: steve_richardson
+navigation_weight: 5
 ---
 
 ### Night Out

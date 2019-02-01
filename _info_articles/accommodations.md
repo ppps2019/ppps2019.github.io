@@ -4,6 +4,7 @@ title: Venue and Hotel
 alt_title: Conference Venue and Accommodations for PPPS 2019
 excerpt: "PPPS 2019 Accommodations"
 modified: 2018-10-05
+navigation_weight: 2
 ---
 <div style="float:left;margin-right:10%;">
 <img src="/images/hotel1.png" alt="DoubleTree Hotel" style="height:15em;margin-bottom:1em;">
