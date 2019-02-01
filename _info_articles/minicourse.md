@@ -6,7 +6,7 @@ modified: 2018-11-29
 navigation_weight: 3
 ---
 
-The topic of the 2019 PPPS Minicourse is **Theoretical and Computational Methods in Plasma Physics**. This minicourse will be held June 22-23, 2018, which is the weekend prior to the main PPPS conference. The deadline to register for participation in the minicourse is **May 3, 2019**. Additional registration information will be posted here soon.
+The topic of the 2019 PPPS Minicourse is **Theoretical and Computational Methods in Plasma Physics**. This minicourse will be held June 22-23, 2019, which is the weekend prior to the main PPPS conference. The deadline to register for participation in the minicourse is **May 3, 2019**. Additional registration information will be posted here soon.
 
 ## Lectures
 
