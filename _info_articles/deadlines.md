@@ -13,3 +13,4 @@ navigation_weight: 4
 - Minicourse Registration: **May 3, 2019**
 - Student Travel Grant: **March 8, 2019**
 - Child Care Assistance Grant: **March 9, 2019**
+- Proceedings Paper Submission: **July 5, 2019**
