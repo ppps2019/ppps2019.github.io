@@ -6,7 +6,7 @@ excerpt: "PPPS 2019 conference registration is now open"
 modified: 2017-06-30
 ---
 
-Registration for PPPS 2019 is now open. [Click here to register now.](http://www.cvent.com/d/b4q9tx)
+Registration for PPPS 2019 is open. [Click here to register now.](http://www.cvent.com/d/b4q9tx)
 
 For complete information about registration options and fees, see [the registration page](http://www.cvent.com/events/2019-ieee-pulsed-power-and-plasma-science-conference-ppps-2019-/fees-174d6fa9e68b4589a41fa87ba6e8f8c9.aspx).
 
@@ -19,7 +19,7 @@ For complete information about registration options and fees, see [the registrat
 | IEEE Life Member | $450 | $375 |
 | Retired/Unemployed | $550 | $450 |
 
-There are several addition options that can be added to your registration. These are:
+There are several additional options that can be added to your registration. These are:
 
 | Option | Fee |
 | ------ | --- |
