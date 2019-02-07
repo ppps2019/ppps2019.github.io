@@ -18,7 +18,7 @@ For complete information about registration options and fees, see [the registrat
 | IEEE Student Member | $450 | $375 |
 | Student Non Member | $550 | $450 |
 | IEEE Life Member | $450 | $375 |
-| Retired/Unemployed | $550 | $450 |
+| IEEE Retired/Unemployed Member | $550 | $450 |
 
 There are several additional options that can be added to your registration. These are:
 
