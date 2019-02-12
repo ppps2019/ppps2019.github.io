@@ -319,10 +319,10 @@ modified: 2018-11-19
         <p><b>5. Pulsed Power Switches and Components</b></p>
       </td>
       <td>
-        <p><b>Hulya Kirkici</b></p>
+        <p><b>Jacob Stephens</b></p>
       </td>
       <td valign="middle" class="td3">
-        <p><b>Univ. South Alabama</b></p>
+        <p><b>MIT</b></p>
       </td>
     </tr>
     <tr>
@@ -534,10 +534,10 @@ modified: 2018-11-19
         <p>8.2 Generators &amp; Networks</p>
       </td>
       <td>
-        <p>Paul Smith</p>
+        <p>Mark Sinclair</p>
       </td>
       <td>
-        <p>First Light Fusion</p>
+        <p>AWE, UK</p>
       </td>
     </tr>
     <tr>
@@ -578,7 +578,7 @@ modified: 2018-11-19
         <p>8.6 Prime Power and Power System Topologies</p>
       </td>
       <td>
-        <p>Martin Hochberg</p>
+        <p>Martin Sack</p>
       </td>
       <td>
         <p>KIT</p>
