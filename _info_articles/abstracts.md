@@ -9,8 +9,6 @@ navigation_weight: 0
 
 Like a number of recent IEEE conferences, abstract submission for PPPS 2019 is managed through the INDICO conference portal, run by the European Organization for Nuclear Research (CERN).  We have prepared this guide to assist you in your efforts to submit an abstract.
 
-## [Click here to submit your abstract](https://indico.cern.ch/event/727938/)
-
 # Basic Instructions
 
 The following two-step sequence is required to successfully submit an abstract.
@@ -30,13 +28,13 @@ Upon creation of the CERN account, users may submit an abstract to the conferenc
 
 Next, please read the **submission instructions** before submitting an abstract by clicking on the text “Submission instructions”. 
 - **Title:** Please fill in the title of your presentation.
-- **Content:** Must use this window to submit your abstract. You may copy and paste the content of your abstract in plain text into this window. Please include the abstract title, authors and affiliations in this section. Symbols and equations may be added using LaTeX math formula. Please check if all the symbols show up correctly. **Note: The total text is automatically limited to 300 words. Please make sure not to exceed the word limit.**
+- **Content:** Must use this window to submit your abstract. You may copy and paste the content of your abstract in plain text into this window. Symbols and equations may be added using LaTeX math formula. Please check if all the symbols show up correctly. **Note: The total text is automatically limited to 300 words. Please make sure not to exceed the word limit.**
 - **Contribution type:** Preference of “Oral”, “Poster”, or “Either” (which means no preference) can be selected here. Please note, a preference for oral presentation may not guarantee you will be assigned an oral presentation.
 - **Authors:** Indicate the primary author and any co-authors. Although not mandatory, the primary author and co-authors should each have a CERN light-weight account. If their accounts have been registered correctly, then their names will be searchable. Otherwise, use the “Define New” option to include non-registered individuals.
 - **Track:** Select the most relevant track from the pull-down list.
 - All other fields are optional. 
     - _Comments:_ You may include any comments including preference to the technical review team, possible other related tracks, etc.
-    - _Attachments:_ Only to be used for recommendation/cover letters for student paper competition. (DO NOT upload your abstract as an attachment file)
+    - **_Attachments:_** Only to be used for recommendation/cover letters for student paper competition. **(DO NOT upload your abstract as an attachment file)**
     - _Optional: Student Paper competition:_ Default is “NO”. Only “Yes” if you are eligible and interested in participating the competition.
     - _Optional: Interested in Job Opportunity:_ Default is “NO”. Only “Yes” if you are interested in new employment opportunities.
 
@@ -45,3 +43,7 @@ Finally, click on “Submit”.
 **Problems:**
 
 If you encounter problems with this procedure, please contact the conference organizers at [jjleckb@sandia.gov](mailto:jjleckb@sandia.gov) or [cjiang@odu.edu](mailto:cjiang@odu.edu).
+
+## [Click here to submit your abstract](https://indico.cern.ch/event/727938/)
+
+
