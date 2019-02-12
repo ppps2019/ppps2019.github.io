@@ -31,25 +31,25 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 
 # PPPS 2019 Exhibitor Booth Assignments
 
-| Booth #       | Exhibitor     |
-| -------------:| ------------- |
+| Booth #       | Exhibitor     | Website |
+| -------------:| ------------- | ------- |
 | 1 | Tera Analysis Ltd. |
 | 2 | Advanced Energy Industries, Inc. |
 | 3 | Silicon Power Corporation |
-| 4      | Stangenes Industries, Inc. |
-| 5     | HVR Advanced Power Components       |
+| 4 | Stangenes Industries, Inc. |
+| 5 | HVR Advanced Power Components       |
 | 6 | Northrup Grumman (NGIS) |
 | 7 | 5S Components, Inc. |
 | 8 | |
-| 9 | Eagle Harbor Technologies, Inc. |
+| 9 | Eagle Harbor Technologies, Inc. | [https://www.eagleharbortech.com/](https://www.eagleharbortech.com/) |
 | 10 | Tech-X Corporation |
-| 11 | GMW Associates |
+| 11 | GMW Associates | [http://gmw.com/](http://gmw.com/) | 
 | 12 | Applied Physical Electronics L.C. |
 | 13 | |
 | 14 | |
 | 15 | ITHPP ALCEN |
 | 16 | Dean Technology, Inc. |
-| 17 | General Atomics Electromagnetic Systems |
+| 17 | General Atomics Electromagnetic Systems | [http://www.ga.com/](http://www.ga.com/) |
 | 18 | Diversified Technologies, Inc. |
 | 19 | Spellman High Voltage Electronics Corp. |
 | 20 | Dielectric Sciences, Inc./Essex X-Ray |
@@ -60,7 +60,14 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 | 25 | Scandinova Systems, Inc. |
 | 26 | Metglas, Inc. |
 | 27 | NWL, Inc. - Capacitor Division |
-| 28 | Jema Energy |
+| 28 | Jema Energy | [http://www.jemaenergy.com/](http://www.jemaenergy.com/) |
 | 29 | Suematsu Electronics, Ltd. |
 | 30 | Pearson Electronics, Inc. |
+
+# PPPS 2019 Exhibitors
+
+<img src="/images/exhibitors/eht.png" alt="Eagle Harbor Technologies, Inc." style="padding-bottom:3em;width:70%;margin-right:1em;vertical-align:center;">
+<img src="/images/exhibitors/gmwa.jpg" alt="GMW Associates" style="padding-bottom:3em;width:70%;margin-right:1em;vertical-align:center;">
+<img src="/images/exhibitors/ga.jpg" alt="General Atomics" style="padding-bottom:3em;width:70%;margin-right:1em;vertical-align:center;">
+<img src="/images/exhibitors/jema.jpg" alt="Eagle Harbor Technologies, Inc." style="padding-bottom:3em;width:70%;margin-right:1em;vertical-align:center;">
 
