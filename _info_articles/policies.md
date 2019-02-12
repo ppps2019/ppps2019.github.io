@@ -31,3 +31,12 @@ In addition to the specific policies outlined above, all participants in the PPP
 IEEE strives to achieve the highest standards of integrity and endeavors to conduct business around the world in a responsible and ethical way. It is important that those who act on the organization’s behalf ensure IEEE’s compliance by adhering to the same standards and expectations. The IEEE code of Conduct describes the commitment of IEEE members and staff to the highest standards of integrity, responsible behavior, and ethical and professional conduct. Specific details of what this entails can be found in the [IEEE Code of Conduct](https://www.ieee.org/about/ieee_code_of_conduct.pdf).
 
 Reports of violations, or concerns regarding potential violations, of IEEE Policies or the IEEE Code of Conduct can be filed anonymously through EthicsPoint at +1 888 359 6323 or by submitting an online report at [the EthicsPoint Online Compliance HelpLine](https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=20410).
+
+
+## Event Conduct and Safety Statement
+
+IEEE believes that science, technology, and engineering are fundamental human activities, for which openness, international collaboration, and the free flow of talent and ideas are essential. Its meetings, conferences, and other events seek to enable engaging, thought- provoking conversations that support IEEE’s core mission of advancing technology for humanity. Accordingly, IEEE is committed to providing a safe, productive, and welcoming environment to all participants, including staff and vendors, at IEEE-related events.
+
+IEEE has no tolerance for discrimination, harassment, or bullying in any form at IEEE-related events. All participants have the right to pursue shared interests without harassment or discrimination in an environment that supports diversity and inclusion. Participants are expected to adhere to these principles and respect the rights of others.
+
+IEEE seeks to provide a secure environment at its events. Participants should report any behavior inconsistent with the principles outlined here, to on site staff, security or venue personnel, or to [eventconduct@ieee.org](mailto:eventconduct@ieee.org).
