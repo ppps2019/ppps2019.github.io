@@ -7,7 +7,8 @@ navigation_weight: 4
 ---
 
 - NPSS Award Nominations: **December 1, 2018**
-- Abstract Submission: **February 22, 2019**
+- Abstract Submission: ~~**February 22, 2019**~~
+- **Extended** Abstract Submission: **March 8, 2019**
 - Hotel Reservation: **May 21, 2019**
 - Early Registration: **May 31, 2019**
 - Minicourse Registration: **May 3, 2019**

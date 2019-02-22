@@ -15,6 +15,8 @@ The following two-step sequence is required to successfully submit an abstract.
 
 1. **Register:** A CERN account must be established so that INDICO recognizes you when you attempt to submit an abstract. Please visit the following website to create an account: [https://account.cern.ch/account/Externals/](https://account.cern.ch/account/Externals/)  If you have created a CERN account for past conference submissions, you may choose to use your existing account.
 2. **Submit:**  Once confirmation that your account has been sent to you via email, you may submit an abstract using the [INDICO portal for IEEE PPPS2019](https://indico.cern.ch/event/727938/).
+3. Complete the IEEE Electronic Copyright [using this form](/copyright/copyright/).
+
 
 # Detailed Instructions
 
