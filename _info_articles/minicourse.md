@@ -10,15 +10,13 @@ The topic of the 2019 PPPS Minicourse is **Theoretical and Computational Methods
 
 ## Lectures
 
-* Venkattraman Ayyaswamy (UC Merced) *Providing closure to the modified Paschen curve: The role of Monte Carlo simulations*
 * Radha Bahukutumbi (LLE) *Hydrodynamic simulations of High Energy Density Plasmas*
 * Lee Collins (LANL) *Density Functional Simulations of the Characteristics of  Warm, Dense Matter Regime*  
-* Nicholas Ouart (NRL) *Modeling non-LTE Plasmas for X-ray Spectroscopy*
+* Simon Cooke (US Naval Research Laboratory) *Computational methods for modeling Vacuum Electronic and High-Power Microwave devices*
+* Allen Garner (Purdue U.) *Microscale to Nanoscale Gas Breakdown: From Paschen’s Law to Schrödinger’s Equation*
+* Nicholas Ouart (US Naval Research Laboratory) *Modeling non-LTE Plasmas for X-ray Spectroscopy*
 * Howard Scott (LLNL) *Understanding and using non-LTE atomic and radiation kinetics for plasma modeling*
 * Charles Seyler (Cornell University) *Hall Physics in HED Plasmas: Methods and Results*
 * Brian Spears (LLNL) *Deep learning: techniques for practitioners in the plasma sciences*
-* Steve Swanekamp (NRL) *Computational methods for the modeling of pulsed-power devices and applications*
 * Petros Tzeferacos (U. Chicago) *A tutorial on HEDP modeling with FLASH: How to design and interpret laboratory experiments using numerical simulations*
 * Dale Welch (Voss Scientific) *PIC methods and results in plasma simulations*
-
-
