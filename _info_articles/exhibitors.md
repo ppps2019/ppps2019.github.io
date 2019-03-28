@@ -33,41 +33,61 @@ If you plan to reserve a booth and **intend to make the booth registration depos
 
 | Booth #       | Exhibitor     | Website |
 | -------------:| ------------- | ------- |
-| 1 | Tera Analysis Ltd. |
+| 1 | Tera Analysis Ltd. | [http://www.quickfield.com/](http://www.quickfield.com/) |
 | 2 | Advanced Energy Industries, Inc. |
 | 3 | Silicon Power Corporation |
-| 4 | Stangenes Industries, Inc. |
-| 5 | HVR Advanced Power Components       |
-| 6 | Northrup Grumman (NGIS) |
+| 4 | Stangenes Industries, Inc. | [http://www.stangenes.com/](http://www.stangenes.com/) |
+| 5 | HVR Advanced Power Components  | [http://www.hvrapc.com/](http://www.hvrapc.com/) |
+| 6 | Northrup Grumman (NGIS) | [http://www.ngc.com/](http://www.ngc.com/) |
 | 7 | 5S Components, Inc. |
-| 8 | |
+| 8 | BIRD RF |
 | 9 | Eagle Harbor Technologies, Inc. | [https://www.eagleharbortech.com/](https://www.eagleharbortech.com/) |
 | 10 | Tech-X Corporation |
 | 11 | GMW Associates | [http://gmw.com/](http://gmw.com/) | 
-| 12 | Applied Physical Electronics L.C. |
+| 12 | Applied Physical Electronics L.C. | [http://www.apelc.com/](http://www.apelc.com/) |
 | 13 | |
 | 14 | |
-| 15 | ITHPP ALCEN |
-| 16 | Dean Technology, Inc. |
+| 15 | ITHPP ALCEN | [http://www.ithpp-alcen.com/en](http://www.ithpp-alcen.com/en) |
+| 16 | Dean Technology, Inc. | [http://www.deantech.com/](http://www.deantech.com/) |
 | 17 | General Atomics Electromagnetic Systems | [http://www.ga.com/](http://www.ga.com/) |
 | 18 | Diversified Technologies, Inc. |
-| 19 | Spellman High Voltage Electronics Corp. |
+| 19 | Spellman High Voltage Electronics Corp. | [http://www.spellmanhv.com/](http://www.spellmanhv.com/) |
 | 20 | Dielectric Sciences, Inc./Essex X-Ray |
-| 21 | TDK-Lambda Americas |
+| 21 | TDK-Lambda Americas | [http://www.tdk-lambda.com/](http://www.tdk-lambda.com/) |
 | 22 | |
 | 23 | |
-| 24 | VR Electronics Co. Ltd. |
+| 24 | VR Electronics Co. Ltd. | [http://vrelectronics.com/](http://vrelectronics.com/) |
 | 25 | Scandinova Systems, Inc. |
-| 26 | Metglas, Inc. |
+| 26 | Metglas, Inc. | [http://www.metglas.com/](http://www.metglas.com/) |
 | 27 | NWL, Inc. - Capacitor Division |
 | 28 | Jema Energy | [http://www.jemaenergy.com/](http://www.jemaenergy.com/) |
 | 29 | Suematsu Electronics, Ltd. |
-| 30 | Pearson Electronics, Inc. |
+| 30 | Pearson Electronics, Inc. | [http://www.pearsonelectronics.com/](http://www.pearsonelectronics.com/) |
 
 # PPPS 2019 Exhibitors
+<style>
+img {
+  height: 7em;
+  width: 40vw;
+  object-fit: contain;
+  object-position: 0% 50%;
+  padding-bottom: 2em;
+}
+</style>
 
-<img src="/images/exhibitors/eht.png" alt="Eagle Harbor Technologies, Inc." style="padding-bottom:3em;width:70%;margin-right:1em;vertical-align:center;">
-<img src="/images/exhibitors/gmwa.jpg" alt="GMW Associates" style="padding-bottom:3em;width:70%;margin-right:1em;vertical-align:center;">
-<img src="/images/exhibitors/ga.jpg" alt="General Atomics" style="padding-bottom:3em;width:70%;margin-right:1em;vertical-align:center;">
-<img src="/images/exhibitors/jema.jpg" alt="Eagle Harbor Technologies, Inc." style="padding-bottom:3em;width:70%;margin-right:1em;vertical-align:center;">
-
+<img src="/images/exhibitors/apelc.jpg" alt="Applied Physical Electronics L.C." ><br>
+<img src="/images/exhibitors/dean.png" alt="Dean Technology, Inc." ><br>
+<img src="/images/exhibitors/eht.png" alt="Eagle Harbor Technologies, Inc."><br>
+<img src="/images/exhibitors/ga.jpg" alt="General Atomics"><br>
+<img src="/images/exhibitors/gmwa.jpg" alt="GMW Associates"><br>
+<img src="/images/exhibitors/HVRAPC.jpg" alt="HVR Advanced Power Components" ><br>
+<img src="/images/exhibitors/ITHPP.png" alt="ITHPP ALCEN" ><br>
+<img src="/images/exhibitors/jema.jpg" alt="Jema Energy"><br>
+<img src="/images/exhibitors/metglas.jpg" alt="Metglas, Inc." ><br>
+<img src="/images/exhibitors/NGC.jpg" alt="Northrup Grumman (NGIS)" ><br>
+<img src="/images/exhibitors/pearson.jpeg" alt="Pearson Electronics, Inc." ><br>
+<img src="/images/exhibitors/spellman.jpg" alt="Spellman High Voltage Electronics Corp." ><br>
+<img src="/images/exhibitors/stangenes.jpg" alt="Stangenes Industries, Inc." ><br>
+<img src="/images/exhibitors/tdk_lambda.png" alt="TDK-Lambda Americas" ><br>
+<img src="/images/exhibitors/tera.png" alt="Tera Analysis Ltd." ><br>
+<img src="/images/exhibitors/VRE.jpg" alt="VR Electronics Co. Ltd." ><br>
