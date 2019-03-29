@@ -8,6 +8,8 @@ navigation_weight: 0.1
 
 Please use the following form to generate the IEEE copyright form that will be uploaded along with your abstract. Enter your article title exactly as it appears in your abstract.
 
+Note that this copyright form is require for all abstracts submitted to this conference, and that these forms will list "International Conference on Plasma Science (ICOPS) 2019" as the conference name. If you would like to separately submit a paper to be published in the PPPS conference proceedings, there will be a separate copyright form for that, which will list "Pulsed Power Conference (PPC) 2019" as the conference name.
+
 **The abstract submission number is available either through the Indico website or in your abstract acceptance e-mail.** 
 
 
