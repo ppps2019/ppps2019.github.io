@@ -41,3 +41,18 @@
 .gallery-ender {
     @include clearfix;
 }
+
+img.exlogo{
+    height: 7rem;
+    width: 90vw;
+    object-fit: contain;
+    object-position: 0% 50%;
+    padding-bottom: 1rem;
+    @include breakpoint($medium) {
+        height: 7rem;
+        width: 40vw;
+        object-fit: contain;
+        object-position: 0% 50%;
+        padding-bottom: 2rem;
+    }
+}

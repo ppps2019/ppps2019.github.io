@@ -1,0 +1,191 @@
+# Conference exhibitors
+
+tera:
+    name: Tera Analysis Ltd.
+    url: http://www.quickfield.com/
+    logo: tera_banner.jpg
+    booth: 1
+
+aei:
+    name: Advanced Energy Industries, Inc.
+    booth: 2
+    url:
+    logo:
+spc:
+    name: Silicon Power Corporation
+    booth: 3
+    url:
+    logo:
+
+stangenes:
+    name: Stangenes Industries, Inc.
+    booth: 4
+    url: http://www.stangenes.com/
+    logo: stangenes.jpg
+
+hvr:
+    name: HVR Advanced Power Components
+    booth: 5
+    url: http://www.hvrapc.com/
+    logo: HVRAPC.jpg
+
+ngis:
+    name: Northrup Grumman (NGIS)
+    booth: 6
+    url: http://www.ngc.com/
+    logo: NGC.jpg
+
+5s:
+    name: 5S Components, Inc.
+    booth: 7
+    url:
+    logo:
+
+bird:
+    name: BIRD RF
+    booth: 8
+    url:
+    logo:
+
+eht:
+    name: Eagle Harbor Technologies, Inc.
+    booth: 9
+    url: https://www.eagleharbortech.com/
+    logo: eht.png
+
+techx:
+    name: Tech-X Corporation
+    booth: 10
+    url:
+    logo:
+
+gmw:
+    name: GMW Associates
+    booth: 11
+    url: http://gmw.com/
+    logo: gmwa.jpg
+
+apelc:
+    name: Applied Physical Electronics L.C.
+    booth: 12
+    url: http://www.apelc.com/
+    logo: apelc.jpg
+
+booth13:
+    name: 
+    booth: 13
+    url:
+    logo:
+
+booth14:
+    name:
+    booth: 14
+    url:
+    logo:
+    
+ithpp:
+    name: ITHPP ALCEN
+    booth: 15
+    url: http://www.ithpp-alcen.com/en
+    logo: ITHPP.png
+
+dean:
+    name: Dean Technology, Inc.
+    booth: 16
+    url: http://www.deantech.com/
+    logo: dean.png
+    
+ga:
+    name: General Atomics Electromagnetic Systems
+    booth: 17
+    url: http://www.ga.com/
+    logo: ga.jpg
+
+div:
+    name: Diversified Technologies, Inc.
+    booth: 18
+    url:
+    logo:
+
+spellman:
+    name: Spellman High Voltage Electronics Corp.
+    booth: 19
+    url: http://www.spellmanhv.com/
+    logo: spellman.jpg
+
+dsi:
+    name: Dielectric Sciences, Inc./Essex X-Ray
+    booth: 20
+    url:
+    logo:
+
+tdk:
+    name: TDK-Lambda Americas
+    booth: 21
+    url: http://www.tdk-lambda.com/
+    logo: tdk_lambda.png
+
+booth22:
+    name: 
+    booth: 22
+    url:
+    logo:
+
+booth23:
+    name:
+    booth: 23
+    url:
+    logo:
+    
+vre:
+    name: VR Electronics Co. Ltd.
+    booth: 24
+    url: http://vrelectronics.com/
+    logo: VRE.jpg
+
+ssi:
+    name: Scandinova Systems, Inc.
+    booth: 25
+    url:
+    logo:
+
+metglas:
+    name: Metglas, Inc.
+    booth: 26
+    url: http://www.metglas.com/
+    logo: metglas.jpg
+
+nwli:
+    name: NWL, Inc. - Capacitor Division
+    booth: 27
+    url:
+    logo:
+
+jema:
+    name: Jema Energy
+    booth: 28
+    url: http://www.jemaenergy.com/
+    logo: jema.jpg
+
+sel:
+    name: Suematsu Electronics, Ltd.
+    booth: 29
+    url:
+    logo:
+
+pearson:
+    name: Pearson Electronics, Inc.
+    booth: 30
+    url: http://www.pearsonelectronics.com/
+    logo: pearson.jpeg
+
+    
+
+
+
+
+
+
+
+
+
