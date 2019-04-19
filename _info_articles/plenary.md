@@ -5,8 +5,8 @@ excerpt:
 modified: 2019-04-12
 ---
 
-{% for p_hash in site.data.plenary %}
-{% assign person = p_hash[1] %}
+{% for phash in site.data.plenary %}
+{% assign person = phash[1] %}
 {::options parse_block_html="true" /}
 <div class="plenary-date">
 {{ person.date }}
