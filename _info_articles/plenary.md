@@ -8,13 +8,7 @@ modified: 2019-04-12
 {% for phash in site.data.plenary %}
 {% assign person = phash[1] %}
 {::options parse_block_html="true" /}
-{% raw %}
-<div class="plenary-date">
-{% endraw %}
 {{ person.date }}
-{% raw %}
-</div>
-{% endraw %}
 {% if person.pic %}
 ![{{ person.name }}]({{ site.url }}/images/plenary/{{ person.pic }}){: class="plenary-bio" alt="{{person.name}}"}
 {% endif %} 
