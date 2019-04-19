@@ -10,11 +10,11 @@ aei:
     name: Advanced Energy Industries, Inc.
     booth: 2
     url:
-    logo:
+    logo: AE-Trek.png
 spc:
     name: Silicon Power Corporation
     booth: 3
-    url:
+    url: http://www.siliconpower.com/
     logo:
 
 stangenes:
@@ -38,13 +38,13 @@ ngis:
 5s:
     name: 5S Components, Inc.
     booth: 7
-    url:
-    logo:
+    url: http://www.5scomponents.com/
+    logo: 5S.jpg
 
 bird:
     name: BIRD RF
     booth: 8
-    url:
+    url: http://www.birdrf.com/
     logo:
 
 eht:
@@ -56,7 +56,7 @@ eht:
 techx:
     name: Tech-X Corporation
     booth: 10
-    url:
+    url: http://www.txcorp.com/
     logo:
 
 gmw:
@@ -72,10 +72,10 @@ apelc:
     logo: apelc.jpg
 
 booth13:
-    name: 
+    name: AVX Corporation
     booth: 13
-    url:
-    logo:
+    url: http://www.avx.com/
+    logo: AVX.jpg
 
 booth14:
     name:
@@ -104,8 +104,8 @@ ga:
 div:
     name: Diversified Technologies, Inc.
     booth: 18
-    url:
-    logo:
+    url: http://www.divtecs.com/
+    logo: DTI.png
 
 spellman:
     name: Spellman High Voltage Electronics Corp.
@@ -116,7 +116,7 @@ spellman:
 dsi:
     name: Dielectric Sciences, Inc./Essex X-Ray
     booth: 20
-    url:
+    url: http://www.dielectricsciences.com/
     logo:
 
 tdk:
@@ -146,8 +146,8 @@ vre:
 ssi:
     name: Scandinova Systems, Inc.
     booth: 25
-    url:
-    logo:
+    url: http://www.scandinovasystems.com/
+    logo: scandinova.jpg
 
 metglas:
     name: Metglas, Inc.
@@ -158,7 +158,7 @@ metglas:
 nwli:
     name: NWL, Inc. - Capacitor Division
     booth: 27
-    url:
+    url: http://www.nwl.com/
     logo:
 
 jema:

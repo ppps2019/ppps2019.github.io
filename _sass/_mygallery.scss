@@ -56,3 +56,25 @@ img.exlogo{
         padding-bottom: 2rem;
     }
 }
+
+img.plenary-bio{
+    width: 10rem;
+    object-fit: contain;
+    object-position: 0% 50%;
+    float: left;
+    padding: 1rem;
+    @include breakpoint($medium) {
+        width: 14rem;
+        object-fit: contain;
+        object-position: 0% 50%;
+    }
+}
+
+.plenary-date{
+    font-weight: bold;
+    text-align: center;
+    height: 3rem;
+    line-height: 3rem;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
