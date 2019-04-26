@@ -1,12 +1,48 @@
 ---
 layout: page
-title: Minicourse
-excerpt: "PPPS 2019 Minicourse"
+title: Mini-course
+excerpt: "PPPS 2019 Mini-course"
 modified: 2018-11-29
 navigation_weight: 3
 ---
+## Theoretical and Computational Methods in Plasma Physics
 
-The topic of the 2019 PPPS Minicourse is **Theoretical and Computational Methods in Plasma Physics**. This minicourse will be held June 22-23, 2019, which is the weekend prior to the main PPPS conference. The deadline to register for participation in the minicourse is **May 3, 2019**. Additional registration information will be posted here soon.
+The topic of the 2019 PPPS mini-course is **Theoretical and Computational Methods in Plasma Physics**. This mini-course will be held June 22-23, 2019, which is the weekend prior to the main PPPS conference. The deadline to register for participation in the mini-course is **May 3, 2019**. [Click here to register now.](http://www.cvent.com/d/b4q9tx)
+
+## Overview
+
+<div style="float:left;margin-right:1em;margin-bottom:1em;">
+<a href="{% link assets/minicourse-flyer.pdf %}">
+<img src="{% link assets/mc-flyer-thumb.png %}" alt="Minicourse flyer" style="width:6.8em;margin-top:1em;margin-bottom:1em;"></a><br>
+<a href="{% link assets/minicourse-flyer.pdf %}">
+Mini-course flyer</a>
+<br>
+<a href="{% link assets/minicourse-agenda.pdf %}">
+<img src="{% link assets/mc-agenda-thumb.png %}" alt="Minicourse agenda" style="width:6.8em;margin-top:1em;margin-bottom:1em;"></a><br>
+<a href="{% link assets/minicourse-agenda.pdf %}">
+Mini-course agenda</a>
+</div>
+
+Date: June 22–23, 2019<br>
+Location: DoubleTree by Hilton Hotel at the Entrance to Universal,
+Orlando, FL<br>
+Room: Indian River
+
+As part of the International Conference on Pulsed Power and Plasma Science 2019, a special 1.5-day mini-course on Theoretical and Computational Plasma Physics will be offered. This mini-course will be tutorial in nature and it will cover theoretical modeling and computational approaches on several topics of current fundamental research. It will play an enabling role in bringing together experts in the fields so as to ensure optimal coordination among the fields. Some of the lecturers will describe latest progress of their discipline while others will offer overview lectures and review their present research interests and the context in which these areas of research are highly valuable. Participants at this conference will acquire a broad range of knowledge and skills that will enable them to contribute to many areas of plasma science and technology. 
+
+Theoretical models coupled with computational tools for a wide range of plasma conditions aim to advance our understanding of the plasmas created in the laboratories and are present in the cosmos. The theory can be used to make experimentally verifiable predictions and computational plasma physics provides powerful tools for searching ways to improve experimental designs and our confidence in them. Exponential growth of computer power means that a lot of important and interesting problems are becoming tractable by computer solutions.  Some of the examples are the theoretical simulations and diagnostic predictions of the High Energy Density (HED) Plasmas that are created in large experimental facilities for radiation sources and magnetic and Inertial confinement fusions providing some of the Nation’s technological basis for HED plasma experiments. Lecture presentations will include overview talks on non-LTE atomic and radiation kinetics for plasma and X-ray spectroscopy, quantum mechanical simulations of warm, dense matter, hydrodynamics simulation of HED Plasmas, Hall Physics in HED Plasmas, deep Learning: techniques for practitioners in the plasma sciences, tutorial on HEDP modeling with FLASH, PIC methods in plasma simulations, modeling vacuum electronic and high-power microwave devices, and microscale to nanoscale gas breakdown. Individual topics will be covered in one-hour presentations given by international experts in the field from several national laboratories as well as from several universities. Further information on the abstracts and instructors, and student tuition grants are posted on the conference website. A detail schedule of the mini-course can be found in the [Mini-course flyer]({% link assets/minicourse-flyer.pdf %}). 
+
+_Registration Deadline:_ **May 3, 2019**<br>
+_Registration Fee:_ **US $300 student and US $550 regular;** Registration will include all the meals during the mini-course.
+
+**The Paul Phelps Continuing Education Grant** To promote continuing education and encourage membership in NPSS, by providing tuition and travel cost assistance for mini-course participants. Additional information and application forms are available at the [NPSS Conference Awards website](http://ieee-npss.org/awards/conference-awards/). To apply, fill out the application form, and send it to [minicourse@ppps2019.org](mailto:minicourse@ppps2019.org) no later than **May 3, 2019**. Application deadline for the Phelps Grant is **May 3, 2019**.
+
+_Contact Information:_<br>
+Dr. Arati Dasgupta (NRL)<br>
+Tel: (202) 404-4389<br>
+E-mail: [arati.dasgupta@nrl.navy.mil](mailto:arati.dasgupta@nrl.navy.mil)
+
+
 
 ## Lectures
 
