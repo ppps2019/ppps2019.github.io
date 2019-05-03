@@ -26,7 +26,7 @@ Mini-course agenda</a>
 Date: June 22–23, 2019<br>
 Location: DoubleTree by Hilton Hotel at the Entrance to Universal,
 Orlando, FL<br>
-Room: Indian River
+Room: Space Coast I
 
 As part of the International Conference on Pulsed Power and Plasma Science 2019, a special 1.5-day mini-course on Theoretical and Computational Plasma Physics will be offered. This mini-course will be tutorial in nature and it will cover theoretical modeling and computational approaches on several topics of current fundamental research. It will play an enabling role in bringing together experts in the fields so as to ensure optimal coordination among the fields. Some of the lecturers will describe latest progress of their discipline while others will offer overview lectures and review their present research interests and the context in which these areas of research are highly valuable. Participants at this conference will acquire a broad range of knowledge and skills that will enable them to contribute to many areas of plasma science and technology. 
 
