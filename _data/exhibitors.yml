@@ -132,9 +132,9 @@ booth22:
     logo: 
 
 booth23:
-    name:
+    name: Alpha-Omega Power Technologies, LLC
     booth: 23
-    url:
+    url: http://www.alphaomegapt.com/
     logo:
     
 vre:
@@ -170,8 +170,8 @@ jema:
 sel:
     name: Suematsu Electronics, Ltd.
     booth: 29
-    url:
-    logo:
+    url: http://www.suematsu-el.jp/
+    logo: Suematsu.jpg
 
 pearson:
     name: Pearson Electronics, Inc.
