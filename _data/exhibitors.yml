@@ -45,7 +45,7 @@ bird:
     name: BIRD RF
     booth: 8
     url: http://www.birdrf.com/
-    logo:
+    logo: bird.jpg
 
 eht:
     name: Eagle Harbor Technologies, Inc.
@@ -57,7 +57,7 @@ techx:
     name: Tech-X Corporation
     booth: 10
     url: http://www.txcorp.com/
-    logo:
+    logo: tech-x.png
 
 gmw:
     name: GMW Associates
@@ -135,7 +135,7 @@ booth23:
     name: Alpha-Omega Power Technologies, LLC
     booth: 23
     url: http://www.alphaomegapt.com/
-    logo:
+    logo: aopt.jpg
     
 vre:
     name: VR Electronics Co. Ltd.

@@ -35,7 +35,7 @@ Theoretical models coupled with computational tools for a wide range of plasma c
 _Registration Deadline:_ Late registrations are currently being accepted.<br>
 _Registration Fee:_ **US $300 student and US $550 regular;** Registration will include all the meals during the mini-course.
 
-**The Paul Phelps Continuing Education Grant** To promote continuing education and encourage membership in NPSS, by providing tuition and travel cost assistance for mini-course participants. Additional information and application forms are available at the [NPSS Conference Awards website](http://ieee-npss.org/awards/conference-awards/). To apply, fill out the application form, and send it to [minicourse@ppps2019.org](mailto:minicourse@ppps2019.org) no later than **May 3, 2019**. Application deadline for the Phelps Grant is **May 3, 2019**.
+**The Paul Phelps Continuing Education Grant** To promote continuing education and encourage membership in NPSS, by providing tuition and travel cost assistance for mini-course participants. Additional information and application forms are available at the [NPSS Conference Awards website](http://ieee-npss.org/awards/conference-awards/). To apply, fill out the application form, and send it to [minicourse@ppps2019.org](mailto:minicourse@ppps2019.org) no later than **May 27, 2019**. Application deadline for the Phelps Grant is **May 27, 2019**.
 
 _Contact Information:_<br>
 Dr. Arati Dasgupta (NRL)<br>
