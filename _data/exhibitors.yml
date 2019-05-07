@@ -15,7 +15,7 @@ spc:
     name: Silicon Power Corporation
     booth: 3
     url: http://www.siliconpower.com/
-    logo:
+    logo: sp.jpg
 
 stangenes:
     name: Stangenes Industries, Inc.
@@ -129,7 +129,7 @@ booth22:
     name: Montena Technology
     booth: 22
     url: http://www.montena.com/
-    logo: 
+    logo: montena.jpg
 
 booth23:
     name: Alpha-Omega Power Technologies, LLC
