@@ -33,6 +33,12 @@ Each panel will have 45 minutes to answer questions from the audience, guided by
 
 The PPPS 2019 Young Professionals Symposium is organized by Dr. William White (Sandia National Laboratories), Dr. Brad Hoff (Air Force Research Laboratory), and Dr. Matt Gomez (Sandia National Laboratories).  As the conference approaches, we will have more information available on this site – and if you have any questions, feel free to email [wmwhite@ieee.org](mailto:wmwhite@ieee.org).
 
+## Job Posting Board
+
+A Job Posting Board will be made available for participants in the conference!  We will have a poster board set up near the meeting rooms, where prospective employers&mdash;including those in industry, the national labs, and universities&mdash;may put up active job openings.  Individuals looking for a new career may peruse the postings and contact members of the recruiting teams that are present at the conference &ndash; as is convenient for both parties!
+
+## About IEEE Young Professionals
+
 <img src="/images/YP.png" alt="IEEE Young Professionals" style="width:70%;margin-right:1em;vertical-align:center;">
 
 IEEE Young Professionals is the group of [IEEE](http://www.ieee.org/) members and volunteers who have graduated from their first professional degree within the past 15 years. It is an international community, whose members are interested in elevating their professional image, expanding their global network, connecting with peers locally and giving back to their community. Since it encompasses all members from recent university graduates to experienced professionals and entrepreneurs, the group is highly diverse in what it has to offer. 
