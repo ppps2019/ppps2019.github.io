@@ -78,10 +78,10 @@ booth13:
     logo: AVX.jpg
 
 booth14:
-    name:
+    name:  Scientific Applications and Research Associates
     booth: 14
-    url:
-    logo:
+    url: https://sara.com/
+    logo: sara.jpg
     
 ithpp:
     name: ITHPP ALCEN
