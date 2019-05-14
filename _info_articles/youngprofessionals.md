@@ -15,7 +15,7 @@ comments: |
     | {{ p.name }}  | {{ p.affiliation }} |{% endfor %}
 ---
 
-PPPS2019 will host a symposium for Young Professionals at the conference hotel on Wednesday, 26 June 2019, from 6:00 to 7:30 pm.  The symposium will consist of two consecutive panels of established professionals willing to provide information in a Q&A format that will be helpful to folks early in their careers.
+PPPS2019 will host a symposium for Young Professionals at the conference hotel on Wednesday, 26 June 2019, from 6:30 to 8:00 pm.  The symposium will consist of two consecutive panels of established professionals willing to provide information in a Q&A format that will be helpful to folks early in their careers.
 
 ## Funding Panel
 
