@@ -36,6 +36,23 @@ six:
   date: |
     Tuesday, June 25, 8:30 – 9:30 AM 
 
+
+
+uri:
+  name: Uri Shumlak
+  aff: Aerospace & Energetics Research Program, University of Washington, Seattle
+  pic: shumlak.jpg
+  title: |
+    Sustained Fusion Reactions from a Sheared-Flow-Stabilized Z Pinch
+  bio: |
+    Uri Shumlak received a B.S. from Texas A & M University and a Ph.D. from UC Berkeley. After finishing his graduate degree, he was a National Research Council postdoctoral fellow at the U.S. Air Force Research Laboratory in Albuquerque, New Mexico. He is currently a tenured full professor of Aeronautics and Astronautics in the Aerospace & Energetics Research Program at the University of Washington. He was recently a Faculty Scholar at Lawrence Livermore National Laboratory, and he is currently the Erna and Jakob Michael Visiting Professor at the Weizmann Institute of Science. He has served on numerous professional committees and as president of the University Fusion Association. <br><br>Prof. Shumlak's research areas are plasma physics, innovative magnetic plasma confinement for fusion energy, electric propulsion, and theoretical & computational plasma modeling. His work includes theoretical and experimental investigation of the stabilizing effect of sheared flows in magnetically confined plasmas. In addition to his experimental research, Prof. Shumlak develops advanced algorithms that use approximate-Riemann solvers and high-order finite element methods for studying the time evolution of plasma dynamics governed by high-fidelity models that include multi-species continuum kinetic, 5-moment and 13-moment multi-fluid descriptions.
+
+  abstract: |
+    The Z-pinch plasma configuration is one of the earliest magnetic confinement concepts. It has a simple cylindrical geometry and an equilibrium characterized by radial force balance in which plasma pressure is confined by an axial (Z) current. The force balance indicates that fusion conditions can be achieved through plasma compression simply by increasing the current; however, virulent pressure-driven instabilities quickly destroy the equilibrium and obfuscate the path to fusion for the traditional Z pinch. More recently, introducing a sheared axial flow to the plasma was theorized to stabilize the Z pinch. Closely coupled with computational studies, a series of Z-pinch experiments (ZaP and ZaP-HD) at the University of Washington were used to test the theory of sheared-flow stabilization. Diagnostic measurements of the plasma equilibrium and stability confirmed that in the presence of a sufficiently large flow-shear, gross Z-pinch instabilities were mitigated, and radial force balance was achieved. Z-pinch plasmas of 50, 100, and 126-cm lengths were held stable for durations much longer than predicted for a static plasma, i.e. thousands of growth times. Adiabatic scaling relations combined with single-fluid and two-fluid simulations facilitated the theoretical understanding of stabilization which enabled increasing plasma parameters. Flow-shear stabilization was demonstrated to be effective even when a 50-cm long plasma column was compressed to small radii (3 mm), producing increases in magnetic field (8.5 T), density (2e17 /cc), and electron temperature (1 keV) as predicted by adiabatic scaling relations. The collaborative FuZE (Fusion Z-pinch Experiment) project between UW and LLNL scaled the sheared-flow-stabilized Z pinch to fusion conditions, and showed that fusion neutrons are produced in a 50-cm long Z-pinch plasma generated with a deuterium and hydrogen gas mixture. A 30-cm long neutron production volume was temporally and spatially resolved. Sustained neutron production was observed for durations up to 8 microseconds during which the plasma was stable, and the current was sufficiently high to compress the plasma to fusion conditions. The neutron production was demonstrated to be consistent with a thermonuclear fusion process since it was not associated with MHD instabilities and beam-target effects were found to be negligible. Likewise, the neutron yield scaled with the square of the deuterium concentration and agreed with the thermonuclear yield calculated from the measured plasma parameters. Experimental observations generally agree with theoretical and computational predictions, indicating that sheared flows can indeed stabilize and sustain a Z-pinch equilibrium and offering a potential path to achieve even higher performing plasmas.
+  date: |
+    Tuesday, June 25, 2:30 – 3:30 PM
+
+
 fifth:
   name: Alexander Kim
   aff: Institute of High Current Electronics
