@@ -25,8 +25,4 @@ __{{person.name}}__<br>
 {% if person.bio %}__Biography__:<br>
 {{person.bio}}{% endif %}
 
-{% if person.name == "John Verboncoeur" %}
-<br><br><br><br><br><br><br>
-{% endif %}
-
 {% endfor %}
