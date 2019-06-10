@@ -3,3 +3,11 @@
 ONR:
     name: The US Office of Naval Research
     logo: Office_of_Naval_Research_Official_Logo.png
+
+LLNL:
+    name: Lawrence Livermore National Laboratory
+    logo: LLNL.png
+
+SNL:
+    name: Sandia National Laboratories
+    logo: SNL.png
