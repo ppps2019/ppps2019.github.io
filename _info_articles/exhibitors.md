@@ -16,7 +16,7 @@ Being a conference exhibitor or sponsor is a tremendous way to expose your compa
 
 The figure below shows the booth layout planned in the Exhibits area in the Universal Center Exhibit Hall. Thirty (30) booths have been arranged in this space. All poster sessions and food and beverage breaks will be held in the Exhibit Hall to maximize the attendee traffic through the exhibitor space.
 
-<img src="/images/booths.png" alt="Exhibitor Booth Locations" style="width:70%;margin-right:1em;vertical-align:center;">
+<img src="/images/booths2.png" alt="Exhibitor Booth Locations" style="width:70%;margin-right:1em;vertical-align:center;">
 
 Each booth will include a 7' (2.1 m) high draped back wall and 3' (0.9 m) high draped side rails, one 6' (1.8 m) draped table, two contour chairs, and one wastebasket, and a 7" x 44" (0.2 x 1.1 m) single line, company identification sign. Please see the [Exhibitor and Sponsorship Prospectus](/assets/exhibitor_prospectus.pdf) for more information about how you can be part of PPPS 2019. If you have any questions, please contact Richard Ness at [rness1@ieee.org](mailto:rness1@ieee.org).
 

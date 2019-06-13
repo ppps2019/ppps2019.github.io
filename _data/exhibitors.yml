@@ -179,9 +179,29 @@ pearson:
     url: http://www.pearsonelectronics.com/
     logo: pearson.jpeg
 
+barth:
+    name: Barth Electronics, Inc.
+    booth: 31
+    url: https://barthelectronics.com/
+    logo: barth.jpg
     
+32:
+    name: 
+    booth: 32
+    url: 
+    logo: 
 
+amo:
+    name: AMOtronics UG
+    booth: 33
+    url: https://www.amotronics.de/en/
+    logo: amo.jpg
 
+snl:
+    name: Sandia National Laboratories
+    booth: 34
+    url: 
+    logo: 
 
 
 

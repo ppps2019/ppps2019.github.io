@@ -20,6 +20,10 @@ A welcome reception will be held on Sunday evening, June 23, 2019 from 18:00 to 
 
 PPPS will host a reception on Monday evening, June 24, 2019 from 18:00 to 19:30 in **Sun & Surf III&ndash;V**.  This event is open to all registered conference attendees and companions.   Reception will include food and drinks.
 
+The speaker at this event will be Dr. Janet Barth. Her talk is titled _Finding Our Voices - Gender Barriers in Science and Engineering_.
+
+Dr. Barth has been active in the radiation effects community for over 40 years. She was a lead radiation hardness assurance engineer for NASA space flight programs and supported the NASA Electronic Parts and Packaging (NEPP) Program, which focuses on the reliability of electronic parts for space programs. Ms. Barth was on the proposal team for the NASA Living With a Star (LWS) Program and served on NASA’s LWS Science Architecture Committee. She retired from NASA’s Goddard Space Flight Center (GSFC) in 2014 and continues to support NASA programs as an Emeritus Scientist. At her retirement, she was the Chief of GSFC’s Electrical Engineering Division where she was responsible for the delivery of spacecraft and instrument avionics to NASA’s science missions, including the Solar Dynamics Observatory, the SWIFT Burst Alert Telescope, the Lunar Reconnaissance Orbiter, the Global Precipitation Measurement mission, and the Magnetospheric Multiscale Mission. She also directed the development of microwave and optical communications systems and suborbital avionics systems at NASA’s Wallops Flight Facility.
+
 
 ### Tuesday June 25: PPPS 2019 – Night Out – Block Party
 

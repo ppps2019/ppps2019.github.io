@@ -6,15 +6,19 @@ excerpt: "Instructions for Oral and Poster Presentations"
 modified: 2019-05-31
 ---
 
+## Poster Presentations
+
 **Poster presentations** will be located in the Universal Center. Posters have to fit within a 4 ft high x 8 ft wide poster board (i.e. _landscape_ orientation). Please reference the Program Overview and Technical Program pages for timing and details. The poster presenter is expected to remain at the poster site during the entire session. Each poster has been assigned a number and must be mounted on the appropriately numbered board. Posters may be mounted in the morning, and must be mounted at least 15 minutes prior to the poster session. Posters should be removed by the end of the day. Any posters left will be discarded at the end of the day.
+
+## Oral Presentations 
 
 **Oral presentations** must be uploaded onto **the central server in the Speaker Ready Room**, located in Sun & Surf II at least 30 min prior to the beginning of the session. All speakers should check in at the Speaker Ready Room before your session to preview your presentation. 
 
-### Speakers will **not** be allowed to connect personal computers to the projector, and session chairs will not be able to load presentations during oral sessions.
+#### Speakers will **not** be allowed to connect personal computers to the projector, and session chairs will not be able to load presentations during oral sessions.
 
 The “Speaker Ready Room” will be available for checking the content of your presentation and uploading it to the central server. Presentations may be uploaded from CD, DVD, SD Memory Card or USB flash drive. Only Power Point (.ppt or .pptx) and Adobe Acrobat files (.pdf) will be accepted. Your uploaded presentation will be available from the central server in each session room.
 
-### It is critically important for files to be named using the following naming format:
+#### It is critically important for files to be named using the following naming format:
 
 <pre>SessionNumber_PaperSequenceNum_AuthorLastName_AuthorFirstName</pre>
 
