@@ -9,8 +9,12 @@ navigation_weight: 1
 
 Registration for PPPS 2019 is open. [Click here to register now.](http://www.cvent.com/d/b4q9tx)
 
-The deadline for early registrations is **May 31, 2019**.
+## Onsite Registration
+Registration opens on Sunday, June 23, at 12 PM noon.<br>
+We accept all credit cards (except Union Pay).<br>
+We also accept cash (US Dollars only).
 
+## Registration Options
 For complete information about registration options and fees, see [the registration page](http://www.cvent.com/events/2019-ieee-pulsed-power-and-plasma-science-conference-ppps-2019-/fees-174d6fa9e68b4589a41fa87ba6e8f8c9.aspx).
 
 | Registration Type | Registration Fee | Early Registration Discounted Price |
