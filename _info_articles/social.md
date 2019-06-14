@@ -16,7 +16,7 @@ Badges must be worn for admission to all events.
 
 A welcome reception will be held on Sunday evening, June 23, 2019 from 18:00 to 20:00 in the Exhibit Hall located in the **Universal Center**.  This event is open to all registered conference attendees and companions. Welcome reception is included in your registration fee. Please be sure to stop by and take advantage of this networking opportunity.   
 
-### Monday June 24: Reception for Women in Engineering and IEEE members 
+### Monday June 24: Reception for Women in Engineering 
 
 PPPS will host a reception on Monday evening, June 24, 2019 from 18:00 to 19:30 in **Sun & Surf III&ndash;V**.  This event is open to all registered conference attendees and companions.   Reception will include food and drinks.
 
