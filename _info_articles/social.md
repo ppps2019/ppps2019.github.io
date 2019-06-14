@@ -31,7 +31,7 @@ The PPPS 2019 Night Out will be on Tuesday evening, June 25, 2019 from 18:30 to 
 
 ### Wednesday June 26: Young Professionals Symposium 
 
-The YP Symposium will be on Wednesday evening, June 26, 2019 from 18:30 to 20:00 in **Universal Center**.  This event is open to all registered conference attendees.   Reception will include food and drinks.
+The YP Symposium will be on Wednesday evening, June 26, 2019 from 18:30 to 20:00 in **Universal Center**.  This event is open to all registered conference attendees. Reception will include food and drinks. For more information, see the [Young Professionals page]({{ site.baseurl }}{% link _info_articles/youngprofessionals.md %}).
 
 ### Thursday June 27: PPPS Awards Banquet
 
