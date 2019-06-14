@@ -10,7 +10,7 @@ navigation_weight: 1
 Registration for PPPS 2019 is open. [Click here to register now.](http://www.cvent.com/d/b4q9tx)
 
 ## Onsite Registration
-Registration opens on Sunday, June 23, at 12 PM noon.<br>
+Onsite registration opens on Sunday, June 23, at 12 PM noon, and is located in the lobby of the conference hotel.<br>
 We accept all credit cards (except Union Pay).<br>
 We also accept cash (US Dollars only).
 
