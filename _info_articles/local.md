@@ -21,4 +21,4 @@ Advance-Purchase Savings on Specially Priced Disney Theme Park Tickets are [avai
 ## Discount Universal Studios Tickets
 
 Exclusive theme park tickets are available for
-[Universal Orlando® Resort](https://secure.universalstudios.com/webstore/shop/ViewItems.aspx?CG=UOConvention&C=UOConvTPT11). Special pricing for the "After 2pm Pass" is available exclusively for PPPS 2019 attendees. 
+[Universal Orlando® Resort](https://secure.universalstudios.com/webstore/shop/ViewItems.aspx?CG=UOConvention&C=UOConvTPT11). Special pricing for the "After 4pm Pass" is available exclusively for PPPS 2019 attendees. 
