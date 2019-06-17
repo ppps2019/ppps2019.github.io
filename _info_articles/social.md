@@ -24,14 +24,14 @@ The speaker at this event will be Dr. Janet Barth. Her talk is titled _Finding O
 
 Dr. Barth has been active in the radiation effects community for over 40 years. She was a lead radiation hardness assurance engineer for NASA space flight programs and supported the NASA Electronic Parts and Packaging (NEPP) Program, which focuses on the reliability of electronic parts for space programs. Ms. Barth was on the proposal team for the NASA Living With a Star (LWS) Program and served on NASA’s LWS Science Architecture Committee. She retired from NASA’s Goddard Space Flight Center (GSFC) in 2014 and continues to support NASA programs as an Emeritus Scientist. At her retirement, she was the Chief of GSFC’s Electrical Engineering Division where she was responsible for the delivery of spacecraft and instrument avionics to NASA’s science missions, including the Solar Dynamics Observatory, the SWIFT Burst Alert Telescope, the Lunar Reconnaissance Orbiter, the Global Precipitation Measurement mission, and the Magnetospheric Multiscale Mission. She also directed the development of microwave and optical communications systems and suborbital avionics systems at NASA’s Wallops Flight Facility.
 
-### Monday June 24: Decadal Assessment of Plasma Science Town Hall meeting
+### Monday June 24: Decadal Assessment of Plasma Science Town Hall Meeting
 
-The National Academies of Sciences, Engineering, and Medicine is conducting the Decadal Assessment of Plasma Science&mdash;Plasma 2020&mdash;with support from the Department of Energy, the National Science Foundation, the Air Force Office of Scientific Research, and the Office of Naval Research.  Plasma 2020 will provide an overview of accomplishments in all fields of plasma science and technology during the previous decade; and provide guidance and recommendations for the coming decade on the most critical plasma science challenges whose solutions will lead to societal benefit.  As with the prior Decadal Assessment, it is expected that Plasma 2020 will be highly influential in establishing priorities for plasma–focused agencies, both in the US and internationally.
+The National Academies of Sciences, Engineering, and Medicine is conducting the Decadal Assessment of Plasma Science&mdash;Plasma 2020&mdash;with support from the Department of Energy, the National Science Foundation, the Air Force Office of Scientific Research, and the Office of Naval Research.  Plasma 2020 will provide an overview of accomplishments in all fields of plasma science and technology during the previous decade; and provide guidance and recommendations for the coming decade on the most critical plasma science challenges whose solutions will lead to societal benefit.  As with the prior Decadal Assessment, it is expected that Plasma 2020 will be highly influential in establishing priorities for plasma-focused agencies, both in the US and internationally.
 
-This TownHall meeting is an opportunity for PPPS attendees to be briefed on the Plasma 2020 process and to provide their perspectives on past accomplishments, future science challenges, opportunities to provide societal benefit, needed interdisciplinary collaborations, and means to enhance careers.  
+This Town Hall meeting is an opportunity for PPPS attendees to be briefed on the Plasma 2020 process and to provide their perspectives on past accomplishments, future science challenges, opportunities to provide societal benefit, needed interdisciplinary collaborations, and means to enhance careers.  
 
 Learn more about the decadal assessment of plasma science at
-[http://NAS.EDU/PLASMA](http://NAS.EDU/PLASMA).
+[http://nas.edu/plasma](http://nas.edu/plasma).
 
 
 ### Tuesday June 25: PPPS 2019 – Night Out – Block Party
