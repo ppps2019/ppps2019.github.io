@@ -21,3 +21,7 @@ The complete PPPS 2019 technical program is now online. The program can be found
 A PDF version of the technical program summary (titles only) is <a href="/assets/TechnicalProgram-20190516.pdf">now available here.</a>
 
 A PDF version of the technical program abstract book is <a href="/assets/AbstractBook-20190524.pdf">now available here.</a>
+
+## Conference Mobile App
+
+The conference mobile app is the best way to view the conference technical program and other conference information. Any updates will be pushed to the mobile app daily. The PPPS 2019 app is available from the Apple App Store [PPPS 2019 - Apple App](https://apps.apple.com/us/app/ppps-2019/id1457191911?mt=8) and for Android devices on Google Play [PPPS 2019 - Android App](https://play.google.com/store/apps/details?id=pl.pcss.ppps2019). 
