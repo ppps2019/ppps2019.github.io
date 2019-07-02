@@ -13,4 +13,4 @@ navigation_weight: 4
 - Minicourse Registration: Late registrations currently being accepted
 - **Extended** Paul Phelps Continuing Education Grant: **May 27, 2019**
 - Student Travel Grant: **March 8, 2019**
-- Proceedings Paper Submission: **July 5, 2019**
+- **Extended** Proceedings Paper Submission: **July 12, 2019**
