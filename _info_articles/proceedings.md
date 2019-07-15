@@ -12,7 +12,7 @@ PPPS 2019 will publish a conference proceedings through IEEE.  All presenters ar
 - Convert manuscript to pdf, embedding all fonts.
 - Upload pdf manuscript to the Indico site:  [https://indico.cern.ch/event/727938/papers/](https://indico.cern.ch/event/727938/papers/)
 - You must log in to the Indico site with the same account you used to submit your abstract.
-- Submit a copyright form (instructions will be posted here soon).
+- Complete the IEEE Electronic Copyright [using this form](/copyright/copyright.html).
 - Attend and present at the conference.
 
 Proceedings paper submission deadline has been extended to **July 12, 2019**.
